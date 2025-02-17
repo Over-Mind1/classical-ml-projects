@@ -48,7 +48,7 @@ The dataset consists of customer attributes such as:
 ## 🛠️ How to Run the Notebook
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/classical-ml-projects.git
+   git clone https://github.com/Over-Mind1/classical-ml-projects.git
    cd classical-ml-projects/customer_segmentation
    ```
 2. Install dependencies:
